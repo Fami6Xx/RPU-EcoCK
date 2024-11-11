@@ -1,0 +1,4 @@
+name: RPU-EcoCK
+version: '${project.version}'
+main: me.fami6xx.rpuecock.RPU_EcoCK
+api-version: '1.14'
